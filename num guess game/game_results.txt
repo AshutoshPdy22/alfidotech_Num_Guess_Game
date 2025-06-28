@@ -1,0 +1,2 @@
+Guessed the number in 12 attempts.
+Guessed the number in 7 attempts.
